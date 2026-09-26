@@ -1,8 +1,7 @@
-```json
 {
-  "name": "multiplayer-trivia",
+  "name": "trivia-quiz",
   "version": "1.0.0",
-  "description": "Real-time multiplayer trivia game using Node.js, Express and Socket.IO",
+  "description": "Multiplayer Trivia Game",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -15,4 +14,3 @@
     "socket.io": "^4.8.1"
   }
 }
-```
